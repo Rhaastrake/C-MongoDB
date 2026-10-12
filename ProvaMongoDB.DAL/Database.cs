@@ -1,4 +1,4 @@
-namespace ProvaMongoDB;
+namespace ProvaMongoDB.DAL;
 
 public class Database
 {

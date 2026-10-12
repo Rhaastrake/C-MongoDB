@@ -10,4 +10,8 @@
       <ProjectReference Include="..\ProvaMongoDB.BLL\ProvaMongoDB.BLL.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+        <None Update="db.json" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+
 </Project>

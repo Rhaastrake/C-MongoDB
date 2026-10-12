@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvaMongoDB.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd21cf82233b3afde94c2a72146541f6600745c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a60ac6dba87b22a8ba8a6129fbbd908dc2d4401")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvaMongoDB.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvaMongoDB.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

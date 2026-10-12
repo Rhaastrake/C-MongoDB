@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaMongoDB", "ProvaMongoDB\ProvaMongoDB.csproj", "{CBBF636F-CF3B-47E8-AC75-B88D94456C9B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaMongoDB.API", "ProvaMongoDB.API\ProvaMongoDB.API.csproj", "{E8C01EAF-6893-4E9E-9D7F-1EC8D2C38160}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaMongoDB.DAL", "ProvaMongoDB.DAL\ProvaMongoDB.DAL.csproj", "{C93FF63B-63DD-44F6-8726-51160F642D3B}"
@@ -14,10 +12,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBBF636F-CF3B-47E8-AC75-B88D94456C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBBF636F-CF3B-47E8-AC75-B88D94456C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBBF636F-CF3B-47E8-AC75-B88D94456C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBBF636F-CF3B-47E8-AC75-B88D94456C9B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E8C01EAF-6893-4E9E-9D7F-1EC8D2C38160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E8C01EAF-6893-4E9E-9D7F-1EC8D2C38160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C01EAF-6893-4E9E-9D7F-1EC8D2C38160}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -30,5 +24,8 @@ Global
 		{150CADE3-CD9C-46E0-89B3-56F21DC6C938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{150CADE3-CD9C-46E0-89B3-56F21DC6C938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{150CADE3-CD9C-46E0-89B3-56F21DC6C938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

@@ -1,8 +1,0 @@
-{
-  "address": "mongodb://mimmoserver.duckdns.org",
-  "port": "27017",
-  "dbName": "its_nosql",
-  "dbCollection": "studenti",
-  "dbUser": "mimmo",
-  "dbUserPassword": "M1mmoC4lzeLungh3?"
-}
