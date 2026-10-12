@@ -1,0 +1,7 @@
+Fatto singleton per connessione al db
+
+Il main pesca da json e prende la connection string dall'istanza
+
+Sempre il main esegue una "query" utilizzando MongoClient come package di dotnet per fare e stampa con for each di ogni documento
+
+Aggiungi .gitignore per db.json e fatto example.db.json
